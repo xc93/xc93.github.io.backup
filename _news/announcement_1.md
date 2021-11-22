@@ -5,3 +5,5 @@ inline: true
 ---
 
 A simple inline announcement.
+
+A simple test edit.
