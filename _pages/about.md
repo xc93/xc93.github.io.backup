@@ -14,19 +14,19 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 ## my name
-陈霄泓
+陈 霄 泓
 
 ## contact
 xc3@illinois.edu
 
 ## research interest
-* Logic
-* Formal semantics of programming languages
-* Automated theorem proving, proof generation, and proof checking
+* logic
+* formal semantics of programming languages
+* automated theorem proving, proof generation, and proof checking
 
 ## short bio
 * 2016 to present. 
