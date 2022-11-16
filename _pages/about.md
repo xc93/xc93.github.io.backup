@@ -30,11 +30,11 @@ Find my latest application materials below:
 -->
 
 My currenct research topics include:
-* [**matching logic**](http://matching-logic.org): a unifying logic foundation for programming languages, program properties,
+* **matching logic** [[link]](http://matching-logic.org): a unifying logic foundation for programming languages, program properties,
   and program analysis, with a powerful proof system and a small proof checker. 
   I study matching logic's expressive power, soundness and completeness properties,
   decision procedures, and tool support for both interactive and automated reasoning. 
-* [**K framework**](https://kframework.org): a unifying semantics-based language framework, with a set of high-performance
+* **K framework** [[link]](https://kframework.org): a unifying semantics-based language framework, with a set of high-performance
   semantics-based language tools.
 * **proof generation**: a practical technique to provide formal correctness guarantees to K. Every computation or program
   analysis carried out by K is certified by a machine-checkable matching logic proof object. 
