@@ -20,14 +20,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<!--
-#### **I'm going on the faculty job market this year!**
-Find my latest application materials below:
-* CV [PDF]
-* Research Statement [HTML, PDF]
-* Teaching Statement [HTML, PDF]
-* Diversity Statement [HTML, PDF]
--->
+---
+
+##### **I'm applying for a tenure-track faculty position.**
+Find my application below:
+* CV                  [[PDF]](assets/pdf/UIUC-Xiaohong-Chen-CV.pdf)
+* Research Statement  [[PDF]](assets/pdf/UIUC-Xiaohong-Chen-RS.pdf)
+* Teaching Statement  [[PDF]](assets/pdf/UIUC-Xiaohong-Chen-TS.pdf)
+* Diversity Statement [[PDF]](assets/pdf/UIUC-Xiaohong-Chen-DS.pdf)
+
+---
 
 My currenct research topics include:
 * **matching logic** [[link]](http://matching-logic.org): a unifying logic foundation for programming languages, program properties,
@@ -36,8 +38,7 @@ My currenct research topics include:
   decision procedures, and tool support for both interactive and automated reasoning. 
 * **K framework** [[link]](https://kframework.org): a unifying semantics-based language framework, with a set of high-performance
   semantics-based language tools.
-* **proof generation**: a practical technique to provide formal correctness guarantees to K. Every computation or program
-  analysis carried out by K is certified by a machine-checkable matching logic proof object. 
+* **proof generation**: a practical technique to provide formal correctness guarantees to semantics-based language implementations and formal analysis tools. Computation and formal verification are certified by complete, rigorous, transparent, human-accessible, and machine-checkable proof objects as formal correctness certificates.  
 
 #### **Contact**
 xc3@illinois.edu
