@@ -34,6 +34,27 @@
   pdf               = {ZCS22-paper.pdf},
 }
 
+@InProceedings{BCH+22,
+  author            = {Bereczky, Péter and Chen, Xiaohong and Horpácsi, Dániel and Peña, Lucas and Tušil, Jan},
+  title             = {Mechanizing matching logic in {C}oq},
+  booktitle         = {Proceedings of Working Formal Methods Symposium (FROM)},
+  year              = {2022},
+  abstract          = {Matching logic is a formalism for specifying and reasoning about mathematical structures, using patterns and pattern matching. Growing in popularity, it has been used to define many logical systems such as separation logic with recursive definitions and linear temporal logic. In addition, it serves as the logical foundation of the K semantic framework, which was used to build practical verifiers for a number of real-world languages. Despite being a fundamental formal system accommodating substantial theories, matching logic lacks a general-purpose, machine-checked formalization. Hence, we formalize matching logic using the Coq proof assistant. Specifically, we create a new representation of matching logic that uses a locally nameless encoding, and we formalize the syntax, semantics, and proof system of this representation in the Coq proof assistant. Crucially, we prove the soundness of the formalized proof system and provide a means to carry out interactive matching logic reasoning in Coq. We believe this work provides a previously unexplored avenue for reasoning about matching logic, its models, and the proof system.},
+  doi               = {10.4204/EPTCS.369.2},
+  pdf               = {BCH+22-paper.pdf},
+}
+
+
+
+@Article{SCS+22,
+  author            = {Saxena, Manasvi and Chen, Xiaohong and Song, Shuang and Meng, Shaoyu and Sha, Lui and Ro{\c{s}}u, Grigore},
+  journal           = {Technical Report},
+  title             = {Rewriting-based computer-interpretable clinical practice guidelines},
+  year              = {2022},
+  abstract          = {Clinical Practice Guidelines (CPGs) are systematically developed statements to assist healthcare professionals with decisions about specific clinical circumstances. Produced by domain experts, they they codify recommended treatments, and are often used as models for building Decision Support Systems (DSS) that assist healthcare professionals adhere to CPGs. CPGs are usually specified informally, or semi-formally (via flowcharts). This, however, may cause the behavior of DSSs to deviate from intended treatment in the corresponding CPGs, and introduce challenges in verifying correctness of the DSSs. In this paper, we propose a novel method of formally specifying CPGs by for- malizing them in K, a rewriting-based executable semantics framework [13]. Our K-based guidelines are executable, allowing them to serve as correct-by-construction models in DSSs, and can be analyzed using tools in the K ecosystem. To support our claims, we present a DSS based on Advanced Cardiac Life Support (ACLS) CPG formalized in K, discuss challenges and present directions for future work.},
+  techrep           = {https://hdl.handle.net/2142/116016},
+}
+
 @InProceedings{CLTR21,
   author            = {Chen, Xiaohong and Lin, Zhengyao and Trinh, Minh-Thai and Ro{\c{s}}u, Grigore},
   booktitle         = {Proceedings of CAV},
