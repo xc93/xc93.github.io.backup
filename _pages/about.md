@@ -48,7 +48,7 @@ xc3@illinois.edu
   PhD student. University of Illinois Urbana-Champaign, USA
 * 2015 to 2016. 
   Research assistant. Singapore University of Technology and Design, Singapore
-* 2014 to 2015. Teaching assistant. Birmingham City University, UK
+* 2014 to 2015. Assistant lecturer. Birmingham City University, UK
 * 2010 to 2014. B.S., Peking University, China
 
 #### **Awards**
