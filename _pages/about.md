@@ -5,8 +5,9 @@ permalink: /
 description: >
   Welcome to my homepage.
   I'm a PhD student in Computer Science at
-  University of Illinois Urbana-Champaign.
-  My research interests are in logic, formal methods, and programming languages.
+  the University of Illinois Urbana-Champaign.
+  My research interests are in logic and formal methods,
+  with a focus on improving the trustworthiness of programs, programming language implementations, and formal analysis tools.
 
 profile:
   align: right
