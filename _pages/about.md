@@ -44,7 +44,7 @@ My currenct research topics include:
 #### **Contact**
 xc3@illinois.edu
 
-#### **Bibliography**
+#### **Bio**
 * 2016 to present (expected May 2023). 
   PhD student. University of Illinois Urbana-Champaign, USA
 * 2015 to 2016. 
