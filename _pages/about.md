@@ -23,15 +23,6 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-##### **I'm applying for a tenure-track faculty position.**
-Find my application below:
-* CV                  [[PDF]](assets/pdf/UIUC-Xiaohong-Chen-CV.pdf)
-* Research Statement  [[PDF]](assets/pdf/UIUC-Xiaohong-Chen-RS.pdf)
-* Teaching Statement  [[PDF]](assets/pdf/UIUC-Xiaohong-Chen-TS.pdf)
-* Diversity Statement [[PDF]](assets/pdf/UIUC-Xiaohong-Chen-DS.pdf)
-
----
-
 My currenct research topics include:
 * **matching logic** [[link]](http://matching-logic.org): a unifying logic foundation for programming languages, program properties,
   and program analysis, with a powerful proof system and a small proof checker. 
