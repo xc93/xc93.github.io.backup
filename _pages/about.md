@@ -32,6 +32,10 @@ My currenct research topics include:
   semantics-based language tools.
 * **proof generation**: a practical technique to provide formal correctness guarantees to semantics-based language implementations and formal analysis tools. Computation and formal verification are certified by complete, rigorous, transparent, human-accessible, and machine-checkable proof objects as formal correctness certificates.  
 
+---
+
+Read **my thesis** [[pdf]](assets/pdf/chen-thesis.pdf) (Last Update: 3/28/2023).
+
 #### **Contact**
 xc3@illinois.edu
 
