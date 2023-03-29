@@ -36,6 +36,8 @@ My currenct research topics include:
 
 Read **my thesis** [[pdf]](assets/pdf/chen-thesis.pdf) (Last Update: 3/29/2023).
 
+---
+
 #### **Contact**
 xc3@illinois.edu
 
