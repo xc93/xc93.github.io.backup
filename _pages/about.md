@@ -34,7 +34,9 @@ My currenct research topics include:
 
 ---
 
-Read my **PhD thesis** [[pdf]](assets/pdf/chen-thesis.pdf) (Last Update: 4/17/2023).
+About my **PhD thesis**:
+* thesis draft [[pdf]](assets/pdf/chen-thesis.pdf) (Last Update: 4/17/2023)
+* thesis defense slides [[pdf]](assets/pdf/chen-defense.pdf)
 
 ---
 
