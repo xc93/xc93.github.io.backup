@@ -35,8 +35,9 @@ My currenct research topics include:
 ---
 
 About my **PhD thesis**:
-* thesis draft [[pdf]](assets/pdf/chen-thesis.pdf) (Last Update: 4/28/2023)
+* thesis draft [[pdf]](assets/pdf/chen-thesis.pdf) (Last Update: 5/2/2023)
 * thesis defense slides [[pdf]](assets/pdf/chen-defense.pdf)
+* joining defense: [[zoom]](https://illinois.zoom.us/j/5494764956?pwd=MDNnaE5CWG0yRVlEZWl5bldoRnErZz09)
 
 ---
 
