@@ -23,7 +23,10 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-**[[My CV]]**(assets/pdf/cv.pdf)
+**[[My CV]](assets/pdf/cv.pdf)**
+
+---
+
 
 My currenct research topics include:
 * **matching logic** [[link]](http://matching-logic.org): a unifying logic foundation for programming languages, program properties,
