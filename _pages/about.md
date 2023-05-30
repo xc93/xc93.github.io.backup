@@ -25,8 +25,9 @@ social: false  # includes social icons at the bottom of the page
 
 **[[My CV]](assets/pdf/cv.pdf)**
 
----
+**[[My thesis]](assets/pdf/chen-thesis.pdf)**
 
+---
 
 My currenct research topics include:
 * **matching logic** [[link]](http://matching-logic.org): a unifying logic foundation for programming languages, program properties,
@@ -36,10 +37,6 @@ My currenct research topics include:
 * **K framework** [[link]](https://kframework.org): a unifying semantics-based language framework, with a set of high-performance
   semantics-based language tools.
 * **proof generation**: a practical technique to provide formal correctness guarantees to semantics-based language implementations and formal analysis tools. Computation and formal verification are certified by complete, rigorous, transparent, human-accessible, and machine-checkable proof objects as formal correctness certificates.  
-
----
-
-Read my **PhD thesis** [[pdf]](assets/pdf/chen-thesis.pdf) (Last Update: 5/2/2023).
 
 ---
 
