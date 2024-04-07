@@ -3,11 +3,8 @@ layout: about
 title: about
 permalink: /
 description: >
-  Welcome to my homepage.
-  I'm a PhD graduand in Computer Science at
-  the University of Illinois Urbana-Champaign.
-  My research interests are in logic and formal methods,
-  with a focus on improving the trustworthiness of programs, programming language implementations, and formal analysis tools.
+  CTO @ Pi Squared. PhD @ UIUC.
+  Programming languages, formal methods, software engineering, cryptography, zero-knowledge.
 
 profile:
   align: right
@@ -23,36 +20,12 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-**[[My CV]](assets/pdf/cv.pdf)**
-
-**[[My thesis]](assets/pdf/chen-thesis.pdf)**
-
----
-
-My currenct research topics include:
-* **matching logic** [[link]](http://matching-logic.org): a unifying logic foundation for programming languages, program properties,
-  and program analysis, with a powerful proof system and a small proof checker. 
-  I study matching logic's expressive power, soundness and completeness properties,
-  decision procedures, and tool support for both interactive and automated reasoning. 
-* **K framework** [[link]](https://kframework.org): a unifying semantics-based language framework, with a set of high-performance
-  semantics-based language tools.
-* **proof generation**: a practical technique to provide formal correctness guarantees to semantics-based language implementations and formal analysis tools. Computation and formal verification are certified by complete, rigorous, transparent, human-accessible, and machine-checkable proof objects as formal correctness certificates.  
-
----
-
 #### **Contact**
-xc3@illinois.edu
+xiaohong.chen@pi2.network
 
 #### **Bio**
-* 2016 to present (expected May 2023). 
-  PhD student. University of Illinois Urbana-Champaign, USA
-* 2015 to 2016. 
-  Research assistant. Singapore University of Technology and Design, Singapore
-* 2014 to 2015. Assistant lecturer. Birmingham City University, UK
-* 2010 to 2014. B.S., Peking University, China
-
-#### **Awards**
-* Graduate College's Dissertation Completion Fellowship (2022)
-* Mavis Future Faculty Fellow (2020)
-* Yunni & Maxine Pao Memorial Fellowship (2018-2019)
-* China National Scholarship (2012-2013)
+* CTO. Pi Squared (2023-present)
+* PhD. University of Illinois Urbana-Champaign (2016-2023)
+* Research assistant. Singapore University of Technology and Design. (2015-2026)
+* Assistant lecturer. Birmingham City University. (2014-2015)
+* BCs. Peking University. (2010-2014)
