@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 description: >
-  CTO @ Pi Squared. PhD @ UIUC.
-  Programming languages, formal methods, software engineering, cryptography, zero-knowledge.
+  CTO @ Pi Squared. PhD @ UIUC. BSc @ PKU. 
+  Programming languages, formal methods, logic, cryptography, zero-knowledge.
 
 profile:
   align: right
